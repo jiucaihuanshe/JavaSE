@@ -31,10 +31,12 @@ public class Q6db8 {
 	public void b(){
 		int j = 1;
 		for(int i=0;i<10;i++){
-			//j++;
-			j+=1;
+			j=j++;
+			//j=++j;
+			//j=j+1;
+			//j+=1;
+			System.out.println(j);//11 11
 		}
-		System.out.println(j);	//11 11
 	}
 	
 	@Test
