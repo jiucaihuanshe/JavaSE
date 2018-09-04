@@ -28,3 +28,5 @@ class Base {
 		System.out.println(6 + 6 + "(Result)");
 	}
 }
+
+

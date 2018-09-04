@@ -1,5 +1,7 @@
 //package com.others;
 //
+//import java.util.Vector;
+//
 //private class MyVector extends Vector {
 //	int i = 1;
 //
